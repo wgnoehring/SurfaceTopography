@@ -54,6 +54,7 @@ import SurfaceTopography.Uniform.PowerSpectrum  # noqa: F401
 import SurfaceTopography.Uniform.ScaleDependentStatistics  # noqa: F401
 import SurfaceTopography.Uniform.ScalarParameters  # noqa: F401
 import SurfaceTopography.Uniform.VariableBandwidth  # noqa: F401
+import SurfaceTopography.Uniform.WaveletAnalysis  # noqa: F401
 
 try:
     from importlib.metadata import version
